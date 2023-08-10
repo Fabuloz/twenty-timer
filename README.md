@@ -133,11 +133,10 @@ Maybe possibly one day, I'll eject this application to introduce native backgrou
 
 ## Author :black_nib:
 
-- **Brennan D Baraban**
-  - Check out my other [GitHub](https://github.com/bdbaraban) projects.
-  - Connect with me on [LinkedIn](https://linkedin.com/in/bdbaraban).
-  - Follow me on [Twitter](https://twitter.com/bdov_).
-  - Be amazed by my [portfolio website](https://bdov.dev), also built in React!
+- **Emmanuel Adeniji**
+  - Check out my other [GitHub](https://github.com/fabuloz) projects.
+  - Connect with me on [LinkedIn](https://linkedin.com/in/emmanuel-adeniji).
+  
 
 ## License :lock:
 
