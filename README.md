@@ -1,8 +1,8 @@
-### NOTE 2-13-2021
+### 10-08-2023
 
 Unfortunately, it appears the Expo SDK version used in this project is no longer supported by Expo.io, so please note that my published app is not currently working.
 
--- Brennan
+-- Emmanuel
 
 ---
 
